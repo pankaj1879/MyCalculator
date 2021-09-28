@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyCalculator</string>
+    <string name="plus">+</string>
+    <string name="subtract">-</string>
+    <string name="multiply">*</string>
+    <string name="devide">/</string>
+    <string name="percentage">%</string>
+</resources>
